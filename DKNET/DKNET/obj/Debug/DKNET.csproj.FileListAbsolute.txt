@@ -1,0 +1,6 @@
+D:\RiderProjects\DNet\DKNET\DKNET\bin\Debug\DKNET.dll
+D:\RiderProjects\DNet\DKNET\DKNET\bin\Debug\DKNET.pdb
+D:\RiderProjects\DNet\DKNET\DKNET\obj\Debug\DKNET.csproj.AssemblyReference.cache
+D:\RiderProjects\DNet\DKNET\DKNET\obj\Debug\DKNET.csproj.CoreCompileInputs.cache
+D:\RiderProjects\DNet\DKNET\DKNET\obj\Debug\DKNET.dll
+D:\RiderProjects\DNet\DKNET\DKNET\obj\Debug\DKNET.pdb
